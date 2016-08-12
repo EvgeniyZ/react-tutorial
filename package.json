@@ -1,0 +1,15 @@
+{
+  "name": "blazblue-react-tutorial",
+  "version": "1.0.0",
+  "description": "Blazblue forum",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Evgenii Zakharov",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.11.4",
+    "express": "^4.14.0"
+  }
+}
