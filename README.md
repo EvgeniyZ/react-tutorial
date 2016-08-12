@@ -1,2 +1,2 @@
-# react-tutorial
-Pass react tutorial by maxfarseer, make Blazblue forum as service
+# redux-ru-tutorial
+Код для [Создание actions](https://maxfarseer.gitbooks.io/redux-course-ru/content/sozdanie_actions.html)
